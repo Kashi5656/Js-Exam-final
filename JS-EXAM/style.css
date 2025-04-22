@@ -1,0 +1,22 @@
+#tebal{
+    background-color: rgb(242, 242, 227);
+    border: 2px solid black;
+    transform: translate(35%,0%);   
+    text-align: center;
+}
+tr:hover{
+    background-color: rgba(214, 151, 151, 0.892);
+}
+thead{
+    font-size: 23px;
+    font-weight: 900;
+    background-color: rgb(74, 195, 202);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+Legend{
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40%;
+}
