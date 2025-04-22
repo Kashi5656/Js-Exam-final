@@ -4,7 +4,7 @@ This is a simple web application that displays state-wise COVID-19 statistics in
 
 ## 🎥 Demo
 
-![COVID Tracker Demo](JS-EXAM/exam.gif)
+![COVID Tracker Demo](JS-EXAM/EXAM.mp4)
 
 ## 📁 Project Structure
 
