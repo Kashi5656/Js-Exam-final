@@ -7,8 +7,6 @@ Edit
   ├── style.css
   └── /video
         └── myvideo.mp4
-
-<video src=""></video>
 index.html — Main page to display the video player.
 
 style.css — Styles for a modern and responsive look.
@@ -44,3 +42,5 @@ Support multiple videos
 
 🧑‍💻 Author
 Developed by kashi
+
+watch= "https://drive.google.com/drive/folders/1qUN2P6S2AP_whXxyMFfop9qaqGCmXzIK?usp=drive_link"
